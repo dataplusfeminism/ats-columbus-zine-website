@@ -2,7 +2,7 @@
 @import 'fonts';
 
 $text_color: #555;
-$background_color: #FFFFFF;
+$background_color: #782B65;
 $basic_line_height: 16px;
 
 @mixin title_type {
@@ -71,8 +71,11 @@ a.wy, a.wy:hover {
   color: white;
 }
 
+i {
+  font-style:italic;
+}
 b {
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .rv-xy-plot__axis__tick__text {

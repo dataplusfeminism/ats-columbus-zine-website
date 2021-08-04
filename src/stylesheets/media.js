@@ -1,6 +1,7 @@
 import { css } from 'styled-components'
 
 const sizes = {
+   mobileSmall: 414,
    mobileLarge: 768,
    padLandscape: 1024,
    smallDesktop: 1280,
