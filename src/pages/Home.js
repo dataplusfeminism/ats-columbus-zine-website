@@ -223,12 +223,12 @@ class Home extends Component {
                   to the commemoration of  <br/>
                   Christoper Columbus 
                 </b>
-              </BigDesc>
-              <Gutter h={10} />
-              <RequestBtn href="mailto:dataplusfeminism@mit.edu">
-                Request Physical Copies
-              </RequestBtn>
+              </BigDesc>  
 
+              <Gutter h={20} />
+              <RequestBtn href="https://ats-columbus-zine.s3.amazonaws.com/columbus_zine_spreads.pdf">
+                Download the Digital Zine
+              </RequestBtn>
             </HeaderPhysicalCopyArea>
             <Gutter h={250} />
             <CollageArea>
@@ -250,18 +250,61 @@ class Home extends Component {
                 <Desc className="white">
                   Christopher Columbus infamously dominates our US history and cultural identity. The figure of Columbus is glamorized as a hero, cultural icon, and the great discoverer of America across textbooks, memorials, place names and more. In contestation to his mythical valor, nation-wide protests for racial, indigenous, and LGBTQ+ justice have accelerated dialogue about who gets celebrated, and whose histories become immortalized in American’s built-environment. While there’s plenty of info about the “greatness” of Columbus, this Zine seeks to highlight the opposite: <br/><b>WE NEVER WANTED HIM HERE!</b>
                 </Desc>
-                <Gutter h={20} />
-                <Desc className="white">
-                  While there’s plenty of info about the “greatness” of Columbus, this Zine seeks to highlight the opposite: WE NEVER WANTED HIM HERE!  Read more on our Medium post.
-                </Desc>
                 <Gutter h={80} />
                 <img src={zine_photo} style={{width: "100%"}} alt="Columbus Zine" />
                 <Gutter h={5} />
                 <Desc className="white">
-                  If you are interested in copies for the zine for your bookshop or library or classroom or organization or event, please send us an email at dataplusfeminism@mit.edu—We have a bunch of copies ready to send. 
-                  Zines will also be available at future D+F Lab events.
+                  We are happy to send out physical copies of the zine as available. We ask that you make a donation in exchange to an organization that works on dismantling the Columbian legacy, and what it stands for.<br/><br/>
+                  <b>To get a copy of the zine, email a picture or copy of your donation receipt and your mailing address to <a href="mailto:dataplusfeminism@mit.edu" className="white_small">dataplusfeminism@mit.edu</a></b>. We list here a few organizations whose work has touched on decolonizing the built landscape, advocating for indigenous people’s day or generating awareness of Columbus’ problematic legacy. Feel free to suggest other organizations to us or donate to a local activists group in your area. 
                 </Desc>
                 <Gutter h={15} />
+                <SmallDesc>
+
+                  <ResourceUl>
+                    <li>
+                      <a href="https://decolonizethisplace.org/donate" rel="noopener noreferrer" target="_blank">
+                        Decolonize This Place
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://illuminatives.org/donate/" rel="noopener noreferrer" target="_blank">
+                        Illuminatives
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="https://secure.actblue.com/donate/ms_blm_homepage_2019" rel="noopener noreferrer" target="_blank">
+                        BLM 
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="https://monumentlab.wedid.it/" rel="noopener noreferrer" target="_blank">
+                        Monument Lab
+                      </a>
+                    </li> 
+                    <li>
+                      <a href="https://italiansforipd.org/take-action/" rel="noopener noreferrer" target="_blank">
+                        Italian Americans for Indigenous Peoples Day 
+                      </a> (no donations, but you can sign their statement)
+                    </li> 
+                    <li>
+                      <a href="http://www.uaine.org/donate.html" rel="noopener noreferrer" target="_blank">
+                        United American Indians of New England
+                      </a>
+                    </li> 
+
+                    <li>
+                      <a href=" https://donate.splcenter.org/" rel="noopener noreferrer" target="_blank">
+                        Southern Poverty Law Center
+                      </a>
+                    </li> 
+                  </ResourceUl>
+                  <Gutter h={15} />
+
+                  If you are interested in bulk copies for the zine for your bookshop or library or classroom or organization or event, please send us an email at dataplusfeminism@mit.edu — we have a bunch of copies ready to send. Zines will also be available at future D+F Lab events.
+                </SmallDesc>
+                  <Gutter h={15} />
 
                 <RequestBtn className="white" href="mailto:dataplusfeminism@mit.edu">
                   Request Physical Copies
@@ -269,6 +312,15 @@ class Home extends Component {
               </Column>
 
               <Column>
+
+                <RequestBtn className="white" href="https://ats-columbus-zine.s3.amazonaws.com/columbus_zine_spreads.pdf">
+                  Download the Digital Zine
+                </RequestBtn>
+                <Gutter h={10} />
+                <SmallDesc>
+                  This work is licensed under a <a className="white_small" rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+                </SmallDesc>
+                <Gutter h={20} />
                 <BigDesc className="white">
                   <b>Resources</b>
                 </BigDesc>
