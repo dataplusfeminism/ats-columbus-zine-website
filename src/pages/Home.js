@@ -327,7 +327,7 @@ class Home extends Component {
                 <Gutter h={10} />
                 <SmallDesc>
                   <ResourceUl>
-                    <li>Our <a href="#" rel="noopener noreferrer" target="_blank">Medium Post</a> </li> 
+                    <li>Our <a href="https://medium.com/data-feminism-lab-mit/we-never-wanted-him-here-d6f1af2a5b5" rel="noopener noreferrer" target="_blank">Medium Post</a> </li> 
                     <li>More about Ida B. Wells’s <a href="https://www.lib.uchicago.edu/collex/exhibits/voice-for-justice-life-and-legacy-ida-b-wells/worlds-columbian-exposition/" rel="noopener noreferrer" target="_blank">“The Reason Why”</a> </li> 
                     <li><a href="http://ldhi.library.cofc.edu/exhibits/show/african_laborers_for_a_new_emp/the_spanish_and_new_world_slav" rel="noopener noreferrer" target="_blank">Digital exhibition</a> about Columbus’s role in the transatlantic slave trade and Indigenous genocide and dispossession </li> 
                     <li>Schlereth, Thomas J. <a href=" https://www.jstor.org/stable/2080794" rel="noopener noreferrer" target="_blank">“Columbia, Columbus, and Columbianism.”</a> <i>The Journal of American History 79, no. 3 (1992): 937-968.</i></li> 
