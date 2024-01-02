@@ -344,6 +344,7 @@ class Home extends Component {
                 <SmallDesc>
                   All of us are researchers at the Data + Feminism Lab, based in the Department of Urban Studies and Planning at MIT.
                 </SmallDesc>
+                
                 <Gutter h={10} />
 
                 <a href="https://dataplusfeminism.mit.edu" target="_blank" rel="noopener noreferrer"><img src={df_white_logo} alt="Data + Feminism Lab, MIT" /></a>
