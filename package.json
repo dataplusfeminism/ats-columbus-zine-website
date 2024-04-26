@@ -2,7 +2,7 @@
   "name": "ats-columbus-zine-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dataplusfeminism.github.io/ats-columbus-zine-website/",
+  "homepage": "https://counter-columbus.dataplusfeminism.mit.edu",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
