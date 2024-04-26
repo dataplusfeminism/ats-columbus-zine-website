@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ats-columbus-zine-website/static/css/main.ec747613.chunk.css",
-    "main.js": "/ats-columbus-zine-website/static/js/main.8980210f.chunk.js",
-    "main.js.map": "/ats-columbus-zine-website/static/js/main.8980210f.chunk.js.map",
-    "runtime-main.js": "/ats-columbus-zine-website/static/js/runtime-main.db5140eb.js",
-    "runtime-main.js.map": "/ats-columbus-zine-website/static/js/runtime-main.db5140eb.js.map",
-    "static/js/2.4d372897.chunk.js": "/ats-columbus-zine-website/static/js/2.4d372897.chunk.js",
-    "static/js/2.4d372897.chunk.js.map": "/ats-columbus-zine-website/static/js/2.4d372897.chunk.js.map",
-    "index.html": "/ats-columbus-zine-website/index.html",
-    "static/css/main.ec747613.chunk.css.map": "/ats-columbus-zine-website/static/css/main.ec747613.chunk.css.map",
-    "static/js/2.4d372897.chunk.js.LICENSE.txt": "/ats-columbus-zine-website/static/js/2.4d372897.chunk.js.LICENSE.txt",
-    "static/media/collage.f12f9a4e.png": "/ats-columbus-zine-website/static/media/collage.f12f9a4e.png",
-    "static/media/df_logo.5889d717.svg": "/ats-columbus-zine-website/static/media/df_logo.5889d717.svg",
-    "static/media/df_white_logo.76e540d3.svg": "/ats-columbus-zine-website/static/media/df_white_logo.76e540d3.svg",
-    "static/media/title_logo.8abd530d.svg": "/ats-columbus-zine-website/static/media/title_logo.8abd530d.svg",
-    "static/media/zine_photo.de99b78c.png": "/ats-columbus-zine-website/static/media/zine_photo.de99b78c.png"
+    "main.css": "/static/css/main.ec747613.chunk.css",
+    "main.js": "/static/js/main.8980210f.chunk.js",
+    "main.js.map": "/static/js/main.8980210f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ecb1ae0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ecb1ae0.js.map",
+    "static/js/2.6a05200d.chunk.js": "/static/js/2.6a05200d.chunk.js",
+    "static/js/2.6a05200d.chunk.js.map": "/static/js/2.6a05200d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ec747613.chunk.css.map": "/static/css/main.ec747613.chunk.css.map",
+    "static/js/2.6a05200d.chunk.js.LICENSE.txt": "/static/js/2.6a05200d.chunk.js.LICENSE.txt",
+    "static/media/collage.f12f9a4e.png": "/static/media/collage.f12f9a4e.png",
+    "static/media/df_logo.5889d717.svg": "/static/media/df_logo.5889d717.svg",
+    "static/media/df_white_logo.76e540d3.svg": "/static/media/df_white_logo.76e540d3.svg",
+    "static/media/title_logo.8abd530d.svg": "/static/media/title_logo.8abd530d.svg",
+    "static/media/zine_photo.de99b78c.png": "/static/media/zine_photo.de99b78c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.db5140eb.js",
-    "static/js/2.4d372897.chunk.js",
+    "static/js/runtime-main.5ecb1ae0.js",
+    "static/js/2.6a05200d.chunk.js",
     "static/css/main.ec747613.chunk.css",
     "static/js/main.8980210f.chunk.js"
   ]
