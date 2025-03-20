@@ -338,7 +338,7 @@ class Home extends Component {
                 </SmallDesc>
                 <Gutter h={30} />
                 <SmallDesc>
-                  <b>WE NEVER WANTED HIM HERE</b> is a zine created by Elizabeth Borneman, Hua Xi, and Lily Xie as part of Audit the Streets, a project whose team includes Catherine D'Ignazio, <a href="https://wonyoung.so" target="_blank" className="wy">Wonyoung So</a>, and Nico Addae. 
+                  <b>WE NEVER WANTED HIM HERE</b> is a zine created by Elizabeth Borneman, Hua Xi, and Lily Xie as part of Audit the Streets, a project whose team includes Catherine D'Ignazio, <a href="https://wonyoung.so" target="_blank" className="wy" rel="noopener noreferrer">Wonyoung So</a>, and Nico Addae. 
                 </SmallDesc>
                 <Gutter h={15} />
                 <SmallDesc>
@@ -348,6 +348,10 @@ class Home extends Component {
                 <Gutter h={10} />
 
                 <a href="https://dataplusfeminism.mit.edu" target="_blank" rel="noopener noreferrer"><img src={df_white_logo} alt="Data + Feminism Lab, MIT" /></a>
+
+                <Gutter h={15} />
+
+                <a href="https://accessibility.mit.edu/" target="_blank" rel="noopener noreferrer"> <SmallDesc>Accessibility</SmallDesc></a>
               </Column>
             </ColumnContainer>
           </Container>
